@@ -1,4 +1,4 @@
-# Name of project
+# API Walkthrough Project - Documentation Not Completed!
 <!-- ![Multiple Device Demo](./readme-content/images/multi-device.png) -->
 ## Live Site
 <!-- [nameOfSite](siteURL)) -->
@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Name of project](#name-of-project)
+- [API Walkthrough Project - Documentation Not Completed!](#api-walkthrough-project---documentation-not-completed)
   - [Live Site](#live-site)
   - [Repository](#repository)
   - [Table of Contents](#table-of-contents)
